@@ -1,47 +1,8 @@
-# ⚙️ Component Language Pack
+📢 IMPORTANT: This is a modified fork of the original Component Language Pack by ExoAE. All credit for the original language pack goes to ExoAE. All credit for the remix goes to BeltaKoda. I merely updated the newest 4.5.0 global.ini using his naming convention.
+ExoAE Ship component language pack: https://github.com/ExoAE/ScCompLangPack
+BeltaKoda's remix: https://github.com/BeltaKoda/ScCompLangPackRemix
 
-This language pack modifies component names to make it easier to detect and track stats.
-
-For example:
-
-`XL-1` → `XL-1 Military A`
-
----
-[Alternate Version](https://github.com/joeydee1986/ScCompLangPackRemix):
-
-`XL-1` → `M2A XL-1` (Included in the altremix folder for convenient access to update each patch)
-
-Thx to [joeydee1986](https://github.com/joeydee1986)!
-
-## ⬇️ Download and install
-
-Download the latest version here:  
-[**Download Component Language Pack**](https://github.com/ExoAE/ScCompLangPack/releases/download/%23Release/ScCompLangPack.zip) or at the [**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)  
-
-### 🔧 How to Install:
-
-1. Extract the ZIP file.
-2. If you already have a `user.cfg` file, **do not overwrite** it. Instead, open your existing user.cfg and add the following line at the end `g_language = english`.
-3. Copy the `data` folder and the (`user.cfg`) file into your game’s LIVE folder root.
-4. Launch the game.
-
-## 🚧 Contribute or Bugs
-
-Found a bug or have an idea for improvement?
-
-Feel free to open an issue or submit a pull request!
-
-## Notes
-
-- This project is not affiliated with Cloud Imperium Games.
-- If you want to implement this in your own language pack, feel free to use the changes from the "modified_global.ini".
-- Using language packs is currently intended by Cloud Imperium Games. 
-https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-community-localization-update
-
-## ☕ Support and additional info
-
-If you’d like to support me, you can use my Star Citizen referral code when when buying the game:
-
-STAR-4JD7-RZT4
-
-Thank you for using my pack!
+🔧 How to Install:
+1. Follow the ship component language pack install instructions
+2. Download the global.ini file from https://github.com/polydooom/ScCompLangPack/blob/main/altremix/
+3. Paste the global.ini file to your StarCitizen\LIVE\data\Localization\english folder
