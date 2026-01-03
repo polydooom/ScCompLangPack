@@ -9,7 +9,7 @@ For example:
 ---
 [Alternate Version](https://github.com/joeydee1986/ScCompLangPackRemix):
 
-`XL-1` → `M2A XL-1`
+`XL-1` → `M2A XL-1` (Included in the altremix folder for convenient access to update each patch)
 
 Thx to [joeydee1986](https://github.com/joeydee1986)!
 
